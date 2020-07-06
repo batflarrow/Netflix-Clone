@@ -1,0 +1,374 @@
+/* CSS Document */
+body{
+	margin: 0;
+	padding: 0;
+	min-width: 1300px;
+	
+}
+
+.div1{
+	width: auto;
+	height: 700px;
+	margin :0;
+	padding:0;
+}
+
+.div1{
+	 background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0.9) 0%,rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0.9) 100%),url( "IN-en-20200629-popsignuptwoweeks-perspective_alpha_website_small.jpg");
+	
+    background-size: cover;
+	   border-bottom:9px solid #222222;
+	
+	
+}
+
+.logo{
+	width: 150px;
+	height: 50px;
+	margin-top:25px;
+	margin-left: 50px;
+}
+.logod{
+	float:left;
+	text-align: left;
+}
+
+.signin{
+	text-align: right;
+	padding:0;
+}
+.sign{
+	width: 85px;
+	height: 30px;
+	margin-top: 25px;
+	margin-right: 50px;
+	background-color: #e50914;
+	color:white;
+	text-align: center;
+	border:none;
+	border-radius:2px;
+	font-size: 15px;
+	cursor: pointer;
+}
+
+
+.centertext{
+	margin-top: 180px;
+	text-align: center;
+color: white;
+	
+}
+.centertext h1{
+	font-size: 50px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	padding: 0;
+	margin:0;
+	
+}
+.centertext h3{
+	font-size: 25px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	padding: 0;
+	margin:10px 0;
+	
+}
+.email{
+	margin-top: 25px;
+}
+.textbox{
+	float: left;
+	width: 450px;
+	height:60px;
+	margin-left: 280px;
+}
+input[type="text"]::placeholder {  
+                
+                text-align: left; 
+				font-size: 17px;            
+} 
+
+
+.try{
+	width: 300px;
+	height:67px;
+	cursor: pointer;
+	color:white;
+	font-size:28px;
+	background-color: #e50914;
+}
+.ready{
+	font-size: 20px;
+	text-align: center;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	padding: 0;
+	margin:10px 0;
+	color:white;
+	
+}
+
+.tv{
+	width:auto;
+	height:450px;
+	background-color: #000000;
+	
+	 border-bottom:9px solid #222222;
+}
+
+.enjoy{
+	color:white;
+		margin:0;
+	font-size: 50px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	padding: 0;
+	margin-bottom: 20px;
+	
+}
+.txt{
+	color:white;
+		margin:0;
+	font-size: 25px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	padding: 0;
+	
+	
+}
+
+.div2txt{
+	margin-top:140px;
+	margin-left: 130px;
+	
+	
+}
+
+.tvimg{
+	float:right;
+	margin:0;
+	padding:0;
+	margin-right: 130px;
+	
+}
+.vid{
+	position: absolute;
+	margin:0;
+	padding:0;
+	width: 400px;
+	margin-left: 70px;
+	margin-top: 80px;
+
+}
+
+.tvborder{
+	height:400px;
+	width:auto;
+	position: relative;
+	
+}
+
+.strangerthings{
+	width:auto;
+	height:450px;
+	background-color: #000000;
+	
+	 border-bottom:9px solid #222222;
+}
+.div3txt{
+	margin-top: 100px;
+	float: right;
+	margin-right: 100px;
+}
+
+.mobile{
+
+	width:500px;
+	height:380px;
+	margin-left: 60px;
+	margin-right: 80px;
+	position: absolute;
+	z-index: 1;
+}
+.aboveeleven{
+	background-color: #000000;
+	position: absolute;
+	border:2px solid #404040;
+	border-radius: 10px;
+	width:320px;
+	height:84px;
+	z-index: 2;
+	margin-left: 150px;
+margin-top: 270px;
+	padding:0;
+}
+.aboveeleven img{
+	height: 70px;
+	width:55px;
+	margin:7px 0px 0px 10px;
+	
+}
+.stimg{
+	float: left;
+}
+
+.st{
+	float: left;
+	margin-left: 20px;
+	margin-top: 10px;
+}
+.stra{
+	color:white;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	margin-bottom: 0px;
+}
+.downloading{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	margin-top: 0px;
+	color: #0071eb;
+}
+.gif{
+	float: right;
+	margin-right: 7px;
+	margin-top: 10px;
+}
+
+.gif img{
+	width:50px;
+	height: 50px;
+}
+
+.sartaj{
+	
+	height: 525px;
+	
+}
+
+.sartajtv{
+	height: 400px;
+	margin-top: 50px;
+	margin-left:50px;
+}
+.sartajtxt{
+	margin-top: 150px;
+}
+.sartajvid{
+	width: 325px;
+	margin-left: 150px;
+	margin-top: 95px;
+	
+}
+
+.faq{
+	width:auto;
+	height:auto;
+	background-color: #000000;
+	
+	 border-bottom:9px solid #222222;
+	
+}
+section{
+	width: 100%;
+	height:100%;
+
+	text-align: left;
+}
+.list{
+	max-width:800px;
+	margin:0 auto;
+	
+	padding:0 15px;
+}
+.mainfaq{
+	color:white;
+}
+.q1{
+	background-color: #303030;
+	padding: 1px 35px ;
+
+	margin: 10px 0px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 28px;
+}
+
+.q1 label{
+	text-decoration: none;
+	width: 100%;
+	color:white;
+	display: flex; 
+	align-items: center;
+	justify-content: space-between;
+	padding: 10px;
+	position: relative;
+	cursor: pointer;
+}
+.q1 ion-icon{
+	padding: 5px;
+	
+}
+.click{
+	display: none;
+}
+
+label .remove{
+	display:none;
+}
+.answer{
+	max-height: 0;
+	overflow: hidden;
+	position: relative;
+	transition: max-height 500ms;
+	
+}
+
+.answer p{
+	padding: 10px;
+	
+}
+
+.click:checked ~ .answer{
+	max-height: 500px;
+	 border-top:2px solid black ;
+	
+}
+.click:checked ~ label .add{
+display:none;
+	
+}
+.click:checked ~ label .remove{
+	display:block;
+	
+}
+
+
+.lastdiv{
+	
+height:350px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	
+	background-color: #000000;
+	color:#757575;
+	
+	
+}
+
+.smalltext{
+	
+	list-style-type: none;
+	padding:0;
+	overflow: hidden;
+		
+}
+.smalltext li{
+	padding:10px;
+	font-size: 13px;
+}
+.outerlist{
+		list-style-type: none;
+	padding:0;
+	overflow: hidden;
+	
+	
+	
+}
+.outerlist .outerli{
+	float:left;
+	margin-right: 90px;
+	
+}

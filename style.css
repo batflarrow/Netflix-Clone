@@ -2,7 +2,7 @@
 body{
 	margin: 0;
 	padding: 0;
-	min-width:1500px;
+	min-width:1470px;
 	
 }
 
@@ -79,7 +79,7 @@ color: white;
 	float: left;
 	width: 450px;
 	height:60px;
-	margin-left: 350px;
+	margin-left: 370px;
 }
 input[type="text"]::placeholder {  
                 
